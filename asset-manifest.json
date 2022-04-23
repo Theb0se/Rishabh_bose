@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Rishabh_bos/static/css/main.319dacc3.css",
-    "main.js": "/Rishabh_bos/static/js/main.b5765276.js",
-    "static/media/Theb0se.jpg": "/Rishabh_bos/static/media/Theb0se.d2ba95e72c57a2a4bcd1.jpg",
-    "static/media/abc.jpg": "/Rishabh_bos/static/media/abc.569c4caa6d71679c88ef.jpg",
-    "static/media/thisWeb.png": "/Rishabh_bos/static/media/thisWeb.0ab375703576884f48ab.png",
-    "static/media/moon.png": "/Rishabh_bos/static/media/moon.4c1b90c485ddc0e32868.png",
-    "static/media/man2.jpg": "/Rishabh_bos/static/media/man2.b2ee9bc1efd059bce500.jpg",
-    "index.html": "/Rishabh_bos/index.html",
-    "main.319dacc3.css.map": "/Rishabh_bos/static/css/main.319dacc3.css.map",
-    "main.b5765276.js.map": "/Rishabh_bos/static/js/main.b5765276.js.map"
+    "main.css": "/Rishabh_bose/static/css/main.319dacc3.css",
+    "main.js": "/Rishabh_bose/static/js/main.61e39680.js",
+    "static/media/Theb0se.jpg": "/Rishabh_bose/static/media/Theb0se.d2ba95e72c57a2a4bcd1.jpg",
+    "static/media/abc.jpg": "/Rishabh_bose/static/media/abc.569c4caa6d71679c88ef.jpg",
+    "static/media/thisWeb.png": "/Rishabh_bose/static/media/thisWeb.0ab375703576884f48ab.png",
+    "static/media/moon.png": "/Rishabh_bose/static/media/moon.4c1b90c485ddc0e32868.png",
+    "static/media/man2.jpg": "/Rishabh_bose/static/media/man2.b2ee9bc1efd059bce500.jpg",
+    "index.html": "/Rishabh_bose/index.html",
+    "main.319dacc3.css.map": "/Rishabh_bose/static/css/main.319dacc3.css.map",
+    "main.61e39680.js.map": "/Rishabh_bose/static/js/main.61e39680.js.map"
   },
   "entrypoints": [
     "static/css/main.319dacc3.css",
-    "static/js/main.b5765276.js"
+    "static/js/main.61e39680.js"
   ]
 }
