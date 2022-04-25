@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Rishabh_bose/static/css/main.ea77f131.css",
+    "main.css": "/Rishabh_bose/static/css/main.54266feb.css",
     "main.js": "/Rishabh_bose/static/js/main.b8b97cfb.js",
     "static/media/Theb0se.jpg": "/Rishabh_bose/static/media/Theb0se.d2ba95e72c57a2a4bcd1.jpg",
     "static/media/abc.jpg": "/Rishabh_bose/static/media/abc.569c4caa6d71679c88ef.jpg",
@@ -8,11 +8,11 @@
     "static/media/moon.png": "/Rishabh_bose/static/media/moon.4c1b90c485ddc0e32868.png",
     "static/media/man2.jpg": "/Rishabh_bose/static/media/man2.b2ee9bc1efd059bce500.jpg",
     "index.html": "/Rishabh_bose/index.html",
-    "main.ea77f131.css.map": "/Rishabh_bose/static/css/main.ea77f131.css.map",
+    "main.54266feb.css.map": "/Rishabh_bose/static/css/main.54266feb.css.map",
     "main.b8b97cfb.js.map": "/Rishabh_bose/static/js/main.b8b97cfb.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea77f131.css",
+    "static/css/main.54266feb.css",
     "static/js/main.b8b97cfb.js"
   ]
 }
