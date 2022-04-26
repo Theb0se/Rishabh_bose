@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Rishabh_bose/static/css/main.1a7d18f9.css",
-    "main.js": "/Rishabh_bose/static/js/main.2a809c94.js",
+    "main.css": "/Rishabh_bose/static/css/main.3c1e4ecc.css",
+    "main.js": "/Rishabh_bose/static/js/main.58605325.js",
     "static/media/Theb0se.jpg": "/Rishabh_bose/static/media/Theb0se.d2ba95e72c57a2a4bcd1.jpg",
     "static/media/abc.jpg": "/Rishabh_bose/static/media/abc.569c4caa6d71679c88ef.jpg",
     "static/media/thisWeb.png": "/Rishabh_bose/static/media/thisWeb.0ab375703576884f48ab.png",
     "static/media/moon.png": "/Rishabh_bose/static/media/moon.4c1b90c485ddc0e32868.png",
     "static/media/man2.jpg": "/Rishabh_bose/static/media/man2.b2ee9bc1efd059bce500.jpg",
     "index.html": "/Rishabh_bose/index.html",
-    "main.1a7d18f9.css.map": "/Rishabh_bose/static/css/main.1a7d18f9.css.map",
-    "main.2a809c94.js.map": "/Rishabh_bose/static/js/main.2a809c94.js.map"
+    "main.3c1e4ecc.css.map": "/Rishabh_bose/static/css/main.3c1e4ecc.css.map",
+    "main.58605325.js.map": "/Rishabh_bose/static/js/main.58605325.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a7d18f9.css",
-    "static/js/main.2a809c94.js"
+    "static/css/main.3c1e4ecc.css",
+    "static/js/main.58605325.js"
   ]
 }
